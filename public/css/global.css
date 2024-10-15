@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+
+    /* background-image: url('/public/assets/images/espacoSideral.png');
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: #000;
+
+}
+
+.back{
+
+    display: flex;
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 2%;
+    margin-top: 3%;
+    text-decoration: none;
+
+}
+
+.back:hover{
+
+    color: #232b4e;
+    
+}
